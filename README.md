@@ -144,6 +144,7 @@
   <li><a href="https://greatfon.com/">GreatFon</a></li>Instagram story viewer - Watch profiles, stories, followers, reels, tagged web posts anonymously.
   <li><a href="https://imginn.com/">Imginn</a></li>Download instagram photos, videos and stories highlights.
   <li><a href="https://inflact.com/downloader/instagram/photo/">Inflact</a></li>Use Photo Downloader for Instagram to save Instagram photos and videos.
+  <li><a href="https://instagrab.app/">InstaGrab</a></li>Instagram downloader tool for downloading reels / stories / videos / photos from instagram.
   <li><a href="https://github.com/instaloader/instaloader">Instaloader</a></li>Download pictures (or videos) along with their captions.
   <li><a href="https://instanavigation.com/">Instanavigation</a></li>View Instagram anonymously.
   <li><a href="https://inteltechniques.com/tools/Instagram.html">Inteltechniques</a></li>Inteltechniques Instagram search tool.
